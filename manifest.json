@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Google Web Light Proxy",
+	"description": "Google Weblight at a click of a button!",
+	"version": "1.0",
+	"permissions": [
+  	 "tabs"
+	],
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "window.html",
+		"default_title": "Open via Google Web Light"
+	}
+}
